@@ -27,6 +27,10 @@ namespace TFSApi.Providers
             _publicClientId = publicClientId;
         }
 
+        public ApplicationOAuthProvider()
+        {
+        }
+
         public override async Task GrantResourceOwnerCredentials(OAuthGrantResourceOwnerCredentialsContext context)
         {
             var userManager = context.OwinContext.GetUserManager<ApplicationUserManager>();

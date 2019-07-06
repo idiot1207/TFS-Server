@@ -80,3 +80,5 @@ c:\users\cgi\documents\visual studio 2015\Projects\TFSApi\TFSApi\bin\RestSharp.x
 C:\Users\CGI\documents\visual studio 2015\Projects\TFSApi\TFSApi\bin\System.Web.Cors.dll
 C:\Users\CGI\documents\visual studio 2015\Projects\TFSApi\TFSApi\bin\System.Web.Http.Cors.dll
 C:\Users\CGI\documents\visual studio 2015\Projects\TFSApi\TFSApi\bin\System.Web.Http.Cors.xml
+C:\Users\CGI\documents\visual studio 2015\Projects\TFSApi\TFSApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\CGI\documents\visual studio 2015\Projects\TFSApi\TFSApi\bin\Microsoft.Owin.Cors.xml
